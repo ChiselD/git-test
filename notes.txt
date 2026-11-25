@@ -1,1 +1,3 @@
 My notes on Git
+
+Untracked means: Git is not yet aware of this file.
