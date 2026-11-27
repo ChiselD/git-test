@@ -6,3 +6,10 @@ cache/
 
 # Protokolle
 *.log
+
+# Raw data except for README
+daten/*
+!daten/README.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
